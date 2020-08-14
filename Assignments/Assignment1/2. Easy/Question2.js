@@ -1,10 +1,11 @@
 console.log("Easy - Q2. Add up the Numbers from a Single Number");
 
-function addUp (num) 
+function addUp(num) 
 {
- var sum = 0;
- for (var i=1;i<=num;i++) 
- {
+  // to store the sum of all the numbers
+  var sum = 0;
+  for (var i=1;i<=num;i++) 
+  {
     sum=sum+i;
   }
   return sum;

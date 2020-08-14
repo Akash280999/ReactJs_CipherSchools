@@ -1,6 +1,8 @@
 console.log("Very Easy - Q2. Divides Evenly");
+
 function dividesEvenly(a,b)
- { 
+ {
+  // when remainder is zero means they divide each other
   if((a%b)==0)  
   {
     return true;
