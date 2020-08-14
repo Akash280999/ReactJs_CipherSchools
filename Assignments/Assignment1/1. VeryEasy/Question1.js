@@ -1,3 +1,4 @@
+console.log("Very Easy - Q1. Convert Minutes into Seconds");
 function convert(min)
 { 
   return min*60;     

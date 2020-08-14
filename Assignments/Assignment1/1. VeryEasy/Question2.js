@@ -1,3 +1,4 @@
+console.log("Very Easy - Q2. Divides Evenly");
 function dividesEvenly(a,b)
  { 
   if((a%b)==0)  

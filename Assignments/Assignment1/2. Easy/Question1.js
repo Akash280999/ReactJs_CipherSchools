@@ -1,3 +1,4 @@
+console.log("Easy - Q1. Count Instances of a Character in a String");
 function charCount (ch,arr) 
 {
     var count = 0;
