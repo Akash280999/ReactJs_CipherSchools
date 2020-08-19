@@ -24,13 +24,22 @@ class App extends React.Component {
         courseDetails
      })
    }
+   handleDelete=(id)=>{
+    let data= this.state.courseDetails.filter((element)=>{
+        return element.id!==id;
+    })
+    this.setState({
+      courseDetails:data
+    })
+   }
+
 
 
   render(){
     return (
       <div className="App">
         <Navbar heading={this.state.heading}></Navbar>
-        <Display courseDetails={this.state.courseDetails}></Display>
+        <Display courseDetails={this.state.courseDetails} handleDelete={this.handleDelete}></Display>
         <AddCourse addCourse ={this.addCourse}></AddCourse>
       </div>
     );
