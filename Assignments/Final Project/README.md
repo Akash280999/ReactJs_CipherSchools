@@ -24,6 +24,11 @@ https://sebkay.com/
 
 Happy Coding and All the Best.
 
+# Final look
+The running demo of the web application is available on this link [https://akash-resume-2021.herokuapp.com/](https://akash-resume-2021.herokuapp.com/).
+
+![Screenshot (1754)](https://user-images.githubusercontent.com/42477627/91798452-8b763d00-ec42-11ea-8527-d6ef3810dfc5.png)
+
 # Running Locally
 ```sh
 git clone https://github.com/Akash280999/ReactJs_CipherSchools.git
@@ -41,13 +46,9 @@ heroku create
 git push heroku master
 heroku open
 ```
-
 Alternatively, you can deploy your own copy of the app using the web-based flow:
-<br><br>
-The running demo of the web application is available on this link [https://akash-resume-2021.herokuapp.com/](https://akash-resume-2021.herokuapp.com/).
 
-![Screenshot (1754)](https://user-images.githubusercontent.com/42477627/91798452-8b763d00-ec42-11ea-8527-d6ef3810dfc5.png)
-
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Authors
 
