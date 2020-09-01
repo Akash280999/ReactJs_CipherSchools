@@ -1,0 +1,173 @@
+{
+  "main": {
+    "name":"Akash Kumar",
+    "occupation":"Software Engineer",
+    "description":"I am a self-driven individual with the ability to adapt to any situation and proven potential to grow self and others",
+    "image":"profilepic.jpg",
+    "bio":"I am a Software Engineer. I have good command in Java, Python, and C/C++. I have used the SQLite database, Oops concepts, and file handling in my projects.\n I had built a basic mathematical mobile calculator using Java and XML. I have made a project named \"CGPA calculator\" where Python Tkinter library was used to build the UI and the SQLite database was used and CRUD operations of RDMS were used.\n I also have basic knowledge of HTML, JavaScript and CSS. Using these I have also made a website as a part of academic assignment. I have also undergone two certifications on Python language provided by Google and Internshala and one in android development from Internshala.",
+    "contactmessage":"Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be a part of your visions.",
+    "email": "akashkrcse1@gmail.com",
+    "phone": "7004250668",
+    "address":{
+      "street":"Argora",
+      "city":"Ranchi",
+      "state":"Jharkhand",
+      "zip": "834002"
+    },
+    "website": "https://www.cocubes.com/student/akashkum57051",
+    "resumedownload":"https://drive.google.com/file/d/11IGrx-gJWKLufg1sNMuxHxAcoqouoDQr/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/akash-kumar-747931145/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Akash280999",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"skype:live:.cid.fd905adaaef3dc82",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/akash.google.it/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AkashKu87302574",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/akash_89789/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here's my skills.",
+    "education":[
+      {
+        "school":"Lovely Professional University",
+        "degree":"B.Tech Computer Science and Engineering",
+        "graduated":"July 2021",
+        "description":"77.3%"
+      },
+      {
+        "school":"Oxford Public School",
+        "degree":"PCM with Computer Science and Physical education",
+        "graduated":"July 2017",
+        "description":"77.5%"
+      },
+      {
+        "school":"Saint Francis School",
+        "degree":"Science,His/Civ,Geography,English,Maths,Computer",
+        "graduated":"July 2015",
+        "description":"76.3%"
+      }
+    ],
+    "work":[
+      {
+        "company":"Xperi",
+        "title":"Software Engineer",
+        "years":"August 2020 - Present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },
+      {
+        "name":"C",
+        "level":"55%"
+      },
+      {
+        "name":"Java",
+        "level":"75%"
+      },
+      {
+        "name":"XML",
+        "level":"85%"
+      },
+      {
+        "name":"Android",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Musicfy",
+        "category":"Build an android music player application using Kotlin, XML and database concept.",
+        "image":"musicfy.jpg",
+        "url":"https://github.com/Akash280999/Musicfy-android-music-player"
+      },
+      {
+        "title":"Calculator",
+        "category":"Build a basic mathematical calculator android application using Java and XML.",
+        "image":"calculator.jpg",
+        "url":"https://github.com/Akash280999/Calculator-mobile-application"
+      },
+      {
+        "title":"CGPA Calculator",
+        "category":"Build a python GUI based CGPA Calculator using TKinter GUI programming",
+        "image":"cgpacalculator.png",
+        "url":"https://github.com/Akash280999/CGPA-Calculator"
+      },
+      {
+        "title":"University finder",
+        "category":"Build a menu based C++ script of a section in a university that provides all the details of a section",
+        "image":"uni.png",
+        "url":"https://github.com/Akash280999/LPU-Finder-University-finder"
+      },
+      {
+        "title":"Mini Dictionary",
+        "category":"Build a menu based C++ script of a dictionary with support of CRUD operations and using file handling concept",
+        "image":"minidic.jpg",
+        "url":"https://github.com/Akash280999/Mini-Dictionary"
+      },
+      {
+        "title":"Income Tax Calculator",
+        "category":"Build a menu based C programming script to calculate the income tax of an individual w.r.t salary and age",
+        "image":"incometax.jpg",
+        "url":"https://github.com/Akash280999/Income-Tax-Calculator"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Don’t be a stranger, just say hello",
+        "user":""
+      }
+    ]
+  }
+}
