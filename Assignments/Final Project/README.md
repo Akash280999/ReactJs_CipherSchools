@@ -23,3 +23,32 @@ A sample portfolio for your reference.
 https://sebkay.com/
 
 Happy Coding and All the Best.
+
+# Running Locally
+```sh
+git clone https://github.com/Akash280999/ReactJs_CipherSchools.git
+cd Assignments/Final%20Project/react-resume
+npm install
+npm start
+```
+
+Your app should now be running on [localhost:3000](http://localhost:3000/).
+
+## Deploying to Heroku
+
+```
+heroku create
+git push heroku master
+heroku open
+```
+
+Alternatively, you can deploy your own copy of the app using the web-based flow:
+<br><br>
+The running demo of the web application is available on this link [https://akash-resume-2021.herokuapp.com/](https://akash-resume-2021.herokuapp.com/).
+
+![Screenshot (1754)](https://user-images.githubusercontent.com/42477627/91798452-8b763d00-ec42-11ea-8527-d6ef3810dfc5.png)
+
+
+## Authors
+
+* **Akash Kumar** - [Linkedin](https://www.linkedin.com/in/akash-kumar-747931145/), [GitHub](https://github.com/Akash280999) 
